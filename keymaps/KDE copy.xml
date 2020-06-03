@@ -1,0 +1,44 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="CompareTwoFiles" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="HippieCompletion" />
+  <action id="JupyterRunCellAction">
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
+  <action id="PyExecuteCellAction">
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+  <action id="org.jetbrains.r.console.RConsoleView.REofAction" />
+</keymap>

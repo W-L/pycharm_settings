@@ -1,0 +1,16 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="autoExpressions" value="false" />
+      <show-values-inline>false</show-values-inline>
+    </data-views>
+    <general />
+    <debuggers>
+      <debugger id="python">
+        <configuration>
+          <option name="valuesPolicy" value="ON_DEMAND" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

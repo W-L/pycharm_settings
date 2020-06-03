@@ -1,0 +1,138 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8 (RU)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="$USER_HOME$/miniconda3/envs/RU/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/RU/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/RU/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/RU/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/BossRuns/Expected_Benefit" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/BossRuns/code" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-252078385" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Desktop/BossRuns/Expected_Benefit" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Desktop/BossRuns/code" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (selcota)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/miniconda3/envs/selcota/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/selcota/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/selcota/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/selcota/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/422958593" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (artefacts)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/miniconda3/envs/artefacts/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/artefacts/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/artefacts/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/artefacts/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-809634993" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (deviate_env)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="$USER_HOME$/miniconda3/envs/deviate_env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/deviate_env/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/deviate_env/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/deviate_env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1850006840" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
