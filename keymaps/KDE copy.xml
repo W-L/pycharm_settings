@@ -1,4 +1,7 @@
 <keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -9,6 +12,19 @@
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
