@@ -1,0 +1,24 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7c90e650-ba75-41d8-8e45-ebea1bddd3ba" name="lukasw@ligate.ebi.ac.uk:22 key">
+        <fileTransfer accessType="SFTP" host="ligate.ebi.ac.uk" port="22" sshConfigId="d0c7b0f4-7823-4189-9dda-77ad68764384" sshConfig="lukasw@ligate.ebi.ac.uk:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="aa27f0f6-b307-4c1b-b43c-be1f028e2650" name="lukasw@ligate.ebi.ac.uk:22 key">
+        <fileTransfer accessType="SFTP" host="ligate.ebi.ac.uk" port="22" sshConfigId="d0c7b0f4-7823-4189-9dda-77ad68764384" sshConfig="lukasw@ligate.ebi.ac.uk:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="b54a5904-79a0-4b4f-8df2-baf6a78601d6" name="lukasw@ligate.ebi.ac.uk:22 key">
+        <fileTransfer accessType="SFTP" host="ligate.ebi.ac.uk" port="22" sshConfigId="d0c7b0f4-7823-4189-9dda-77ad68764384" sshConfig="lukasw@ligate.ebi.ac.uk:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="109f1b74-b977-48b0-be01-b7cdd1f4ce50" name="lukasw@ligate.ebi.ac.uk:22 key">
+        <fileTransfer accessType="SFTP" host="ligate.ebi.ac.uk" port="22" sshConfigId="d0c7b0f4-7823-4189-9dda-77ad68764384" sshConfig="lukasw@ligate.ebi.ac.uk:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="e47139d4-10d0-43ab-918c-fc3f531b804c" name="lukasw@ligate.ebi.ac.uk:22 key">
+        <fileTransfer accessType="SFTP" host="ligate.ebi.ac.uk" port="22" sshConfigId="d0c7b0f4-7823-4189-9dda-77ad68764384" sshConfig="lukasw@ligate.ebi.ac.uk:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="2a13ba3a-b385-4663-86cb-b5b6df6d160b" name="lukasw@localhost:6000" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
