@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="testing_again" type="PLAIN_TEXT" />
       <mapping pattern="testing_once_again" type="PLAIN_TEXT" />
+      <mapping ext="params" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
