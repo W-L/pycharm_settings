@@ -28,11 +28,13 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="JupyterRunCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
   <action id="PyExecuteCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
