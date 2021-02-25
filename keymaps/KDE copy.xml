@@ -36,6 +36,8 @@
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="alt period" />
