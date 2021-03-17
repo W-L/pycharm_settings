@@ -8,12 +8,6 @@
           <option name="timestamp" value="1585136447000" />
           <option name="version" value="3.6.3" />
         </RSerializableInterpreter>
-        <RSerializableInterpreter>
-          <option name="name" value="deviate_env" />
-          <option name="path" value="$USER_HOME$/miniconda3/envs/deviate_env/bin/R" />
-          <option name="timestamp" value="1588927917900" />
-          <option name="version" value="3.5.1" />
-        </RSerializableInterpreter>
       </list>
     </option>
   </component>
