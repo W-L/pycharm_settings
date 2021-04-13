@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="ligate.ebi.ac.uk" id="d0c7b0f4-7823-4189-9dda-77ad68764384" keyPath="$USER_HOME$/.ssh/ebi_rsa" port="22" nameFormat="DESCRIPTIVE" username="lukasw" />
-      <sshConfig authType="PASSWORD" host="localhost" id="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" port="6000" nameFormat="DESCRIPTIVE" username="lukasw" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="localhost" id="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" port="6000" nameFormat="DESCRIPTIVE" username="lukasw" />
     </configs>
   </component>
 </application>
