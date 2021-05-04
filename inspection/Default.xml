@@ -8,6 +8,8 @@
         <option value="E203" />
         <option value="E128" />
         <option value="E127" />
+        <option value="W391" />
+        <option value="E402" />
       </list>
     </option>
   </inspection_tool>
