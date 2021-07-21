@@ -1,22 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2a13ba3a-b385-4663-86cb-b5b6df6d160b" name="lukasw@localhost:6000" url="http:///">
-        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
-      </webServer>
-      <webServer id="6ab8dc8f-010b-40a6-9e0d-58122e1f127a" name="lukasw@localhost:6000 password">
-        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
-      </webServer>
-      <webServer id="aa8bfbce-9ff6-4ee1-bea6-5bee57b0070a" name="lukasw@localhost:6000 password (1)">
-        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
-      </webServer>
-      <webServer id="5ad5e878-4400-44f6-9f5a-3c0774abe232" name="lukasw@localhost:6000 nfs" url="http:///">
-        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
-      </webServer>
-      <webServer id="3eb6ec9e-599d-463e-8f3e-f649322d8005" name="lukasw@localhost:6000 password (2)">
-        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
-      </webServer>
-      <webServer id="d499ccdd-2c65-4caf-8d37-3fda26d6f2af" name="lukasw@localhost:6000 password (3)">
+      <webServer id="9050c9af-a400-42b9-9f02-7a915ea29712" name="lukasw@localhost:6000 password">
         <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
       </webServer>
     </option>
