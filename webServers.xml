@@ -4,6 +4,9 @@
       <webServer id="9050c9af-a400-42b9-9f02-7a915ea29712" name="lukasw@localhost:6000 password">
         <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
       </webServer>
+      <webServer id="b6b8f3a6-b51c-4d6a-a4be-cbf345107bee" name="lukasw@localhost:6000 password (1)">
+        <fileTransfer accessType="SFTP" host="localhost" port="6000" sshConfigId="47c9bde4-7d09-4b0f-bf30-c0b3eddc89e1" sshConfig="lukasw@localhost:6000 password" />
+      </webServer>
     </option>
   </component>
 </application>
