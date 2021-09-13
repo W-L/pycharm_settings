@@ -1,5 +1,6 @@
 <application>
   <component name="org.jetbrains.r.settings.MachineLearningCompletionSettings">
-    <option name="lastUpdateCheckTimestampMs" value="1631520955959" />
+    <option name="enabled" value="false" />
+    <option name="lastUpdateCheckTimestampMs" value="1631551767264" />
   </component>
 </application>
