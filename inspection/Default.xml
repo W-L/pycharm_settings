@@ -35,6 +35,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="Aeons.row_norm" />
+        <option value="int.poll" />
       </list>
     </option>
   </inspection_tool>
