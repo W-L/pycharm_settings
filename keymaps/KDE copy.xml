@@ -2,6 +2,11 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -32,6 +37,7 @@
   <action id="JupyterRunCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
+  <action id="PreviousTab" />
   <action id="PyExecuteCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
