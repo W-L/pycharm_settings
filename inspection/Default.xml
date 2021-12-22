@@ -36,6 +36,7 @@
       <list>
         <option value="Aeons.row_norm" />
         <option value="int.poll" />
+        <option value="code.variant_calling.snakeboss_vc_zymoall.expand" />
       </list>
     </option>
   </inspection_tool>
