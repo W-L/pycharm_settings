@@ -1,4 +1,8 @@
 <keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -7,12 +11,24 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDuplicate" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
@@ -31,10 +47,16 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="ForceStepInto" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="JupyterRunCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
@@ -45,8 +67,7 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="f9" />
-    <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
@@ -59,6 +80,9 @@
   </action>
   <action id="StepIntoMyCode">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="ctrl quote" />
