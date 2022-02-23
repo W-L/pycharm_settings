@@ -32,6 +32,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="ForceStepInto" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="JupyterRunCellAction">
@@ -40,7 +41,6 @@
   <action id="PreviousTab" />
   <action id="PyExecuteCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
-    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
@@ -57,9 +57,11 @@
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
+  <action id="StepIntoMyCode">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl 2" />
