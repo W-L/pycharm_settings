@@ -4,7 +4,7 @@
     <property name="created">2021-01-13T11:22:23</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.2.5.0.0</property>
-    <property name="modified">2022-08-09T10:55:52</property>
+    <property name="modified">2022-08-09T11:08:12</property>
     <property name="originalScheme">Monokai</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -949,6 +949,36 @@
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="1cba00" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="1cba00" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="1cba00" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FOREGROUND" value="2e7ce2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LIST_MARKER">
+      <value>
+        <option name="FOREGROUND" value="5502d3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
