@@ -7,7 +7,6 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
@@ -54,6 +53,9 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="ForceStepInto" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Editor.ZoomOut">
@@ -62,7 +64,13 @@
   <action id="JupyterRunCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
-  <action id="PreviousTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="PyExecuteCellAction">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
