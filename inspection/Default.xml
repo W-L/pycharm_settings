@@ -17,6 +17,7 @@
         <option value="E722" />
         <option value="E301" />
         <option value="W605" />
+        <option value="E501" />
       </list>
     </option>
   </inspection_tool>
@@ -40,5 +41,10 @@
         <option value="code.variant_calling.snakeboss_vc_zymoall.expand" />
       </list>
     </option>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
   </inspection_tool>
 </profile>
