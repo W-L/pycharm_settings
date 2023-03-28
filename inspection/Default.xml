@@ -3,6 +3,8 @@
   <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <GlobalSettings restrictedDuplicateScope="SAME_FILE" />
   </inspection_tool>
+  <inspection_tool class="LatexLineBreak" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LatexMissingLabel" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
