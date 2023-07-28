@@ -5,14 +5,14 @@
         <RSerializableInterpreter>
           <option name="name" value="Suggested" />
           <option name="path" value="/usr/bin/R" />
-          <option name="timestamp" value="1656274956000" />
-          <option name="version" value="4.2.1" />
+          <option name="timestamp" value="1689731403000" />
+          <option name="version" value="4.3.1" />
         </RSerializableInterpreter>
         <RSerializableInterpreter>
-          <option name="name" value="deviaTE_env" />
-          <option name="path" value="$USER_HOME$/miniconda3/envs/deviaTE_env/bin/R" />
-          <option name="timestamp" value="1649153448730" />
-          <option name="version" value="3.5.1" />
+          <option name="name" value="spatial" />
+          <option name="path" value="$USER_HOME$/miniconda3/envs/spatial/bin/R" />
+          <option name="timestamp" value="1690552596438" />
+          <option name="version" value="4.3.1" />
         </RSerializableInterpreter>
       </list>
     </option>
