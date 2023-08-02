@@ -8,6 +8,7 @@
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="def" type="Shell Script" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="pdf" approved="true" type="Pdf file" />
     </extensionMap>
   </component>
 </application>
