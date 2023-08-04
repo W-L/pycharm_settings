@@ -8,12 +8,6 @@
           <option name="timestamp" value="1689731403000" />
           <option name="version" value="4.3.1" />
         </RSerializableInterpreter>
-        <RSerializableInterpreter>
-          <option name="name" value="spatial" />
-          <option name="path" value="$USER_HOME$/miniconda3/envs/spatial/bin/R" />
-          <option name="timestamp" value="1690552596438" />
-          <option name="version" value="4.3.1" />
-        </RSerializableInterpreter>
       </list>
     </option>
   </component>
