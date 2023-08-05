@@ -106,4 +106,8 @@
   </action>
   <action id="openAssertEqualsDiff" />
   <action id="org.jetbrains.r.console.RConsoleView.REofAction" />
+  <action id="org.jetbrains.r.rendering.chunk.RunChunkAction">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl number_sign" />
+  </action>
 </keymap>
